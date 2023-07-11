@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663722357027",
+    "project_id": "iptproject-46cb0",
+    "storage_bucket": "iptproject-46cb0.appspot.com"
+  },
+  
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663722357027:android:6aea52346250c715c61c96",
+        "android_client_info": {
+          "package_name": "com.johnvchuma.iptapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663722357027-fh69foi39kljk87ierc7eshna12oho3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi35gMwl5FO0asVvat5TDAvgdtpAm70Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663722357027-fh69foi39kljk87ierc7eshna12oho3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
